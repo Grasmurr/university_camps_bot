@@ -1,0 +1,2 @@
+token = '6071307598:AAFgO3HoLlASLCekbV6ZKr6v7QGbVwfJW-o'
+# token = '5651387019:AAHZDiAFetHMZbDuSbbSMB3hvyw0zMa9lpM'
